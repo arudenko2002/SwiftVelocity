@@ -1,0 +1,2 @@
+scp -i mykeygen /Users/rudenka/workspace/SwiftVelocitySubscriptions/src/main/python/velocity_alert_subscription.py alexey.rudenko2002@swift-airflow.umusic.net:/tmp/
+scp -i mykeygen /Users/rudenka/workspace/SwiftVelocitySubscriptions/target/SwiftVelocitySubscriptions-0.1.jar alexey.rudenko2002@swift-airflow.umusic.net:/tmp/
